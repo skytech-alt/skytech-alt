@@ -113,14 +113,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SkyMonder&show_icons=true&theme=tokyonight&hide_title=true" alt="SkyMonder stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=skytech-alt&show_icons=true&theme=tokyonight&hide_title=true" alt="skytech-alt stats">
+<!-- Стало -->
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=SkyMonder&show_icons=true&theme=tokyonight&hide_title=true" alt="SkyMonder stats">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=skytech-alt&show_icons=true&theme=tokyonight&hide_title=true" alt="skytech-alt stats">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyMonder&theme=tokyonight" alt="Streak SkyMonder">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=skytech-alt&theme=tokyonight" alt="Streak skytech-alt">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SkyMonder&theme=tokyonight&row=1&column=6" alt="Trophies SkyMonder">
-<img src="https://github-profile-trophy.vercel.app/?username=skytech-alt&theme=tokyonight&row=1&column=6" alt="Trophies skytech-alt">
+<!-- Стало -->
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SkyMonder&theme=tokyonight&row=1&column=6" alt="Trophies SkyMonder">
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=skytech-alt&theme=tokyonight&row=1&column=6" alt="Trophies skytech-alt">
 
 </div>
 
